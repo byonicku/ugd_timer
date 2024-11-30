@@ -1,19 +1,22 @@
-# UGD Timer
-![alt text](https://github.com/bootloopmaster636/ugd_timer/blob/556df65661697c83146afa73096c78ae266a5466/readme/ugd_timer_picture.png)
-A simple and beautiful coding practice timer made with Flutter
+# UGD TIMER
 
-# Features
-- 4 Timers available (main, assistant become available, bonus, and cut off timer)
-- Timer title
-- Beautiful UI
-- Light/dark theme support
-- Audio notifications (BETA)
-- Import and export settings (BETA)
+### A simple and elegant timer for use in coding practice class.
 
-## Usage
-Soon(TM)
+![image.png](readme/mainScreenshot.png)
 
-## Contributing
-New issues and PR are welcome ^_^
+---
 
-Thanks to [byonicku](https://github.com/byonicku) for big brain logic and stuff :)
+## Features
+
+- 3 Timers available (main timer, assistant timer, and bonus timer)
+- Assistant and bonus timer are toggleable
+- Magically perfect display for all screen sizes
+- Start-at feature, to start the timer at predetermined time
+- Cross platform (Linux, Windows, MacOS (untested))
+- 2 languages available (ID, EN) with more to come
+
+#### Planned feature
+
+- Notes window
+- Play sound when X happens
+- Keyboard shortcuts
